@@ -1,0 +1,12 @@
+*{
+    background-color: yellowgreen;
+}
+.text {
+    color: cyan;
+}
+p.text{
+    color: indigo;
+}
+#text {
+    color: fuchsia;
+}
